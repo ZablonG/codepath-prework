@@ -5,7 +5,7 @@ Hello World Application that changes color of the text when the 'change text col
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/t4tIhqhzsA.gif" width=200><br>
 
 
 ### Required User Stories
